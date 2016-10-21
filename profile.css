@@ -1,0 +1,27 @@
+*{
+	padding:0px;
+	margin:0px;
+	}
+
+	#wrapper{
+		width:700px;
+		margin:0px auto;
+		background-color:silver;
+	}	
+
+		.profile_pic{
+			width:200px;
+		}
+		
+		.welcome{
+			vertical-align: top;
+		}
+
+		.profile_pic , .welcome{
+			display: inline-block;
+		}
+
+		#tabs a{
+			color:gold;
+			text-decoration: none;
+		}
