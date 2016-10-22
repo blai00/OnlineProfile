@@ -15,6 +15,7 @@
 		
 		.welcome{
 			vertical-align: top;
+			font-style:italic;
 		}
 
 		.profile_pic , .welcome{
@@ -22,6 +23,6 @@
 		}
 
 		#tabs a{
-			color:gold;
+			color:red;
 			text-decoration: none;
 		}
